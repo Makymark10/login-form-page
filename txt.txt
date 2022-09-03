@@ -1,0 +1,32 @@
+ <div class="formBx">
+                <h2>Login</h2>
+                <form>
+                    <div class="inputBx">
+                        <span>Username</span>
+                        <input type="text">
+                    </div>
+                    <div class="inputBx">
+                        <span>Password</span>
+                        <input type="password">
+                    </div>
+
+                    <div class="remember">
+                        <label>
+                            <input type="checkbox">Remember me?
+                        </label>
+                    </div>
+
+                    <div class="inputBx">
+                        <input type="submit" value="Sign in" 
+                    </div>
+                    <div class="inputBx">
+                        <p>Dont have an account? <a href="#">Sign up</a></p>
+                    </div>
+                </form>
+                <h3>Login wiht social media</h3>
+                <ul class="sci">
+                    <li><img src="./img/facebook.png" alt="facebook"></li>
+                    <li><img src="./img/github.png" alt="facebook"></li>
+                    <li><img src="./img/instagram.png" alt="facebook"></li>
+                </ul>
+            </div>
